@@ -60,21 +60,21 @@ dff2 = dff[dff.ScheduledStartTime.isin(['12:00:00'])]
 dff3 = dff[dff.ScheduledStartTime.isin(['15:30:00'])]
 
 dfv = pd.DataFrame({
-    'Mon (8.30-11.00am)': dfm1['Name'],
-    'Mon (12.00-3.00pm)': dfm2['Name'],
-    'Mon (3.30-6.30pm)': dfm3['Name'],
-    'Tue (8.30-11.00am)': dft1['Name'],
-    'Tue (12.00-3.00pm)': dft2['Name'],
-    'Tue (3.30-6.30apm)': dft3['Name'],
-    'Wed (8.30-11.00am)': dfw1['Name'],
-    'Wed (12.00-3.00pm)': dfw2['Name'],
-    'Wed (3.30-6.30pm)': dfw3['Name'],
-    'Thur (8.30-11.00am)': dfth1['Name'],
-    'Thur (12.00-3.00pm)': dfth2['Name'],
-    'Thur (3.30-6.30pm)': dfth3['Name'],
-    'Fri (8.30-11.00am)': dff1['Name'],
-    'Fri (12.00-3.00pm)': dff2['Name'],
-    'Fri (3.30-6.30pm)': dff3['Name'],
+    'Mon (8.30-11.00am)': dfm1['ActivityDates(Individual)']+'\n'+dfm1['Name'],
+    'Mon (12.00-3.00pm)': dfm2['ActivityDates(Individual)']+'\n'+dfm2['Name'],
+    'Mon (3.30-6.30pm)': dfm3['ActivityDates(Individual)']+'\n'+dfm3['Name'],
+    'Tue (8.30-11.00am)': dft1['ActivityDates(Individual)']+'\n'+dft1['Name'],
+    'Tue (12.00-3.00pm)': dft2['ActivityDates(Individual)']+'\n'+dft2['Name'],
+    'Tue (3.30-6.30apm)': dft3['ActivityDates(Individual)']+'\n '+dft3['Name'],
+    'Wed (8.30-11.00am)': dfw1['ActivityDates(Individual)']+'\n '+dfw1['Name'],
+    'Wed (12.00-3.00pm)': dfw2['ActivityDates(Individual)']+'\n'+dfw2['Name'],
+    'Wed (3.30-6.30pm)': dfw3['ActivityDates(Individual)']+'\n'+dfw3['Name'],
+    'Thur (8.30-11.00am)': dfth1['ActivityDates(Individual)']+'\n'+dfth1['Name'],
+    'Thur (12.00-3.00pm)': dfth2['ActivityDates(Individual)']+'\n '+dfth2['Name'],
+    'Thur (3.30-6.30pm)': dfth3['ActivityDates(Individual)']+'\n'+dfth3['Name'],
+    'Fri (8.30-11.00am)': dff1['ActivityDates(Individual)']+'\n'+dff1['Name'],
+    'Fri (12.00-3.00pm)': dff2['ActivityDates(Individual)']+'\n'+dff2['Name'],
+    'Fri (3.30-6.30pm)': dff3['ActivityDates(Individual)']+'\n'+dff3['Name'],
 })
 #,index=['0','2','3','4','5','6','7','8','9','10','11','12'])
 
