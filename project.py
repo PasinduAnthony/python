@@ -24,9 +24,9 @@ dconcat.drop('Unnamed: 0',inplace=True,axis=1)
 print(dconcat)
 dconcat.to_csv('raw data/test.csv')
 dconcat['index'] = newindex
-dconcat = dconcat.sort_values(by='date',inplace=True)
-dconcat = dconcat.set_index('date')
-print(dconcat['date'])
+dconcat.sort_values(by='date')
+dconcat = dconcat.set_index('index')
+#print(dconcat['date'])
 
 dfm = dconcat[dconcat.ScheduledDays.isin(['Monday'])]
 #dfm = dfm.sort_values(by='ActivityDates(Individual)')
@@ -60,21 +60,21 @@ dff2 = dff[dff.ScheduledStartTime.isin(['12:00:00'])]
 dff3 = dff[dff.ScheduledStartTime.isin(['15:30:00'])]
 
 dfv = pd.DataFrame({
-    'Mon (8.30-11.00am)': dfm['date'],
-    #'Mon (12.00-3.00pm)': dfm['Name'],
-    #'Mon (3.30-6.30pm)': dfm['Name'],
-    'Tue (8.30-11.00am)': dft['date'],
-    #'Tue (12.00-3.00pm)': dft['Name'],
-    #'Tue (3.30-6.30apm)': dft['Name'],
-    'Wed (8.30-11.00am)': dfw['date'],
-    #'Wed (12.00-3.00pm)': dfw['Name'],
-    #'Wed (3.30-6.30pm)': dfw['Name'],
-    'Thur (8.30-11.00am)': dfth['date'],
-    #'Thur (12.00-3.00pm)': dfth['Name'],
-    #'Thur (3.30-6.30pm)': dfth['Name'],
-    'Fri (8.30-11.00am)': dff['date'],
-    #'Fri (12.00-3.00pm)': dff['Name'],
-    #'Fri (3.30-6.30pm)': dff['Name'],
+    'Mon (8.30-11.00am)': dfm1['Name'],
+    'Mon (12.00-3.00pm)': dfm2['Name'],
+    'Mon (3.30-6.30pm)': dfm3['Name'],
+    'Tue (8.30-11.00am)': dft1['Name'],
+    'Tue (12.00-3.00pm)': dft2['Name'],
+    'Tue (3.30-6.30apm)': dft3['Name'],
+    'Wed (8.30-11.00am)': dfw1['Name'],
+    'Wed (12.00-3.00pm)': dfw2['Name'],
+    'Wed (3.30-6.30pm)': dfw3['Name'],
+    'Thur (8.30-11.00am)': dfth1['Name'],
+    'Thur (12.00-3.00pm)': dfth2['Name'],
+    'Thur (3.30-6.30pm)': dfth3['Name'],
+    'Fri (8.30-11.00am)': dff1['Name'],
+    'Fri (12.00-3.00pm)': dff2['Name'],
+    'Fri (3.30-6.30pm)': dff3['Name'],
 })
 #,index=['0','2','3','4','5','6','7','8','9','10','11','12'])
 
