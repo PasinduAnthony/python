@@ -1,66 +1,66 @@
-,Name,Description,ActivityDates(Individual),ScheduledDays,ScheduledStartTime,Scheduled End Time,Duration,Allocated Location Name,Planned Size,Allocated Staff Name,Zone Name,date
-0,DICT-DNDFC_120_FT_DDMG_Lec01,SET Database Design & Modelling,9/1/2020,Thursday,8:30:00,11:30:00,3:00,C01,50,Ong Chin Ann,Jackson,2020-09-01 08:30:00
-1,DICT-DNDFC_120_FT_DDMG_Lec02,SET Database Design & Modelling,13/1/2020,Monday,12:00:00,15:00:00,3:00,C01,50,Ong Chin Ann,Jackson,2020-01-13 12:00:00
-2,DICT-DNDFC_120_FT_DDMG_Lec03 (Lab Grp 1),SET Database Design & Modelling,15/1/2020,Wednesday,12:00:00,15:00:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-01-15 12:00:00
-3,DICT-DNDFC_120_FT_DDMG_Lec03 (Lab Grp 2),SET Database Design & Modelling,16/1/2020,Thursday,15:30:00,18:30:00,3:00,D01,48,Ong Chin Ann,Jackson,2020-01-16 15:30:00
-4,DICT-DNDFC_120_FT_DDMG_Lec04,SET Database Design & Modelling,4/2/2020,Tuesday,15:30:00,18:30:00,3:00,C02/C03,50,Ong Chin Ann,Jackson,2020-04-02 15:30:00
-5,DICT-DNDFC_120_FT_DDMG_Lec05 (Lab Grp 1),SET Database Design & Modelling,11/2/2020,Tuesday,12:00:00,15:00:00,3:00,D01,48,Ong Chin Ann,Jackson,2020-11-02 12:00:00
-6,DICT-DNDFC_120_FT_DDMG_Lec05 (Lab Grp 2),SET Database Design & Modelling,10/2/2020,Monday,15:30:00,18:30:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-10-02 15:30:00
-7,DICT-DNDFC_120_FT_DDMG_Lec06,SET Database Design & Modelling,12/2/2020,Wednesday,12:00:00,15:00:00,3:00,C01,50,Ong Chin Ann,Jackson,2020-12-02 12:00:00
-8,DICT-DNDFC_120_FT_DDMG_Lec07,SET Database Design & Modelling,14/2/2020,Friday,12:00:00,15:00:00,3:00,C01,50,Ong Chin Ann,Jackson,2020-02-14 12:00:00
-9,DICT-DNDFC_120_FT_DDMG_Lec08 (Lab Grp 2),SET Database Design & Modelling,19/2/2020,Wednesday,15:30:00,18:30:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-02-19 15:30:00
-10,DICT-DNDFC_120_FT_DDMG_Lec08 (Lab Grp1),SET Database Design & Modelling,18/2/2020,Tuesday,15:30:00,18:30:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-02-18 15:30:00
-11,DICT-DNDFC_120_FT_DDMG_Lec09,SET Database Design & Modelling,21/2/2020,Friday,12:00:00,15:00:00,3:00,C02/C03,50,Ong Chin Ann,Jackson,2020-02-21 12:00:00
-12,DICT-DNDFC_120_FT_DDMG_Lec10,SET Database Design & Modelling,24/2/2020,Monday,12:00:00,15:00:00,3:00,,50,Ong Chin Ann,Jackson,2020-02-24 12:00:00
-13,DICT-DNDFC_120_FT_DDMG_Lec11 (Lab Grp 1),SET Database Design & Modelling,26/2/2020,Wednesday,12:00:00,15:00:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-02-26 12:00:00
-14,DICT-DNDFC_120_FT_DDMG_Lec11 (Lab Grp 2),SET Database Design & Modelling,4/3/2020,Wednesday,8:30:00,11:30:00,3:00,D02,48,Ong Chin Ann,Jackson,2020-04-03 08:30:00
-15,DICT-DNDFC_120_FT_DDMG_Lec12,SET Database Design & Modelling,4/3/2020,Wednesday,15:00:00,18:00:00,3:00,C02/C03,50,Ong Chin Ann,Jackson,2020-04-03 15:00:00
-16,DICT-DNDFC_120_FT_DDMG_Lec13 (Lab Grp 1),SET Database Design & Modelling,5/3/2020,Thursday,8:30:00,11:30:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-05-03 08:30:00
-17,DICT-DNDFC_120_FT_DDMG_Lec13 (Lab Grp 2),SET Database Design & Modelling,6/3/2020,Friday,8:30:00,11:30:00,3:00,D02,48,Ong Chin Ann,Jackson,2020-06-03 08:30:00
-18,DICT-DNDFC_120_FT_DDMG_Lec14 (Lab Grp 1),SET Database Design & Modelling,12/3/2020,Thursday,12:00:00,15:00:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-12-03 12:00:00
-19,DICT-DNDFC_120_FT_DDMG_Lec14 (Lab Grp 2),SET Database Design & Modelling,11/3/2020,Wednesday,8:30:00,11:30:00,3:00,D02,48,Ong Chin Ann,Jackson,2020-11-03 08:30:00
-20,DICT-DNDFC_120_FT_DDMG_Lec15,SET Database Design & Modelling,9/3/2020,Monday,8:30:00,11:30:00,3:00,C02/C03,50,Ong Chin Ann,Jackson,2020-09-03 08:30:00
-0,DICT-DNDFC_120_FT_DM_Lec01/1,SET Discrete Mathematics,7/1/2020,Tuesday,15:30:00,18:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-07-01 15:30:00
-1,DICT-DNDFC_120_FT_DM_Lec02/1,SET Discrete Mathematics,8/1/2020,Wednesday,15:30:00,18:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-08-01 15:30:00
-2,DICT-DNDFC_120_FT_DM_Lec03/1,SET Discrete Mathematics,15/1/2020,Wednesday,15:00:00,18:00:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-01-15 15:00:00
-3,DICT-DNDFC_120_FT_DM_Lec04/1,SET Discrete Mathematics,20/1/2020,Monday,13:00:00,15:30:00,2:30,C01,80,Chang Wing Hong Edmund,Jackson,2020-01-20 13:00:00
-4,DICT-DNDFC_120_FT_DM_Lec05/1,SET Discrete Mathematics,22/1/2020,Wednesday,13:00:00,15:30:00,2:30,C01,80,Chang Wing Hong Edmund,Jackson,2020-01-22 13:00:00
-5,DICT-DNDFC_120_FT_DM_Lec06/1,SET Discrete Mathematics,3/2/2020,Monday,12:30:00,15:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-03-02 12:30:00
-6,DICT-DNDFC_120_FT_DM_Lec07/1,SET Discrete Mathematics,5/2/2020,Wednesday,8:30:00,11:30:00,3:00,C02/C03,80,Chang Wing Hong Edmund,Jackson,2020-05-02 08:30:00
-7,DICT-DNDFC_120_FT_DM_Lec08/1,SET Discrete Mathematics,12/2/2020,Wednesday,15:30:00,18:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-12-02 15:30:00
-8,DICT-DNDFC_120_FT_DM_Lec09/1,SET Discrete Mathematics,13/3/2020,Friday,8:30:00,11:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-03-13 08:30:00
-9,DICT-DNDFC_120_FT_DM_Lec10/1,SET Discrete Mathematics,18/2/2020,Tuesday,12:00:00,15:00:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-02-18 12:00:00
-10,DICT-DNDFC_120_FT_DM_Lec11/1,SET Discrete Mathematics,21/2/2020,Friday,15:30:00,18:30:00,3:00,C02/C03,80,Chang Wing Hong Edmund,Jackson,2020-02-21 15:30:00
-11,DICT-DNDFC_120_FT_DM_Lec12/1,SET Discrete Mathematics,25/2/2020,Tuesday,12:00:00,15:00:00,3:00,,80,Chang Wing Hong Edmund,Jackson,2020-02-25 12:00:00
-12,DICT-DNDFC_120_FT_DM_Lec13/1,SET Discrete Mathematics,27/2/2020,Thursday,8:30:00,11:30:00,3:00,,80,Chang Wing Hong Edmund,Marina,2020-02-27 08:30:00
-13,DICT-DNDFC_120_FT_DM_Lec14/1,SET Discrete Mathematics,3/3/2020,Tuesday,12:00:00,15:30:00,3:30,C02/C03,80,Chang Wing Hong Edmund,Jackson,2020-03-03 12:00:00
-14,DICT-DNDFC_120_FT_DM_Lec15/1,SET Discrete Mathematics,10/3/2020,Tuesday,12:00:00,15:30:00,3:30,C01,80,Chang Wing Hong Edmund,Jackson,2020-10-03 12:00:00
-0,DICT-DNDFC_120_FT_ICOS_Lec01/1 (Group A),SET Introduction to Computer Operating Systems (Group A),10/1/2020,Friday,15:00:00,18:00:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-10-01 15:00:00
-1,DICT-DNDFC_120_FT_ICOS_Lec01/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),23/1/2020,Thursday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-01-23 15:30:00
-2,DICT-DNDFC_120_FT_ICOS_Lec02/1 (Group A),SET Introduction to Computer Operating Systems (Group A),13/1/2020,Monday,8:30:00,11:30:00,3:00,C02/C03,80,Ankit Saurabh,Jackson,2020-01-13 08:30:00
-3,DICT-DNDFC_120_FT_ICOS_Lec02/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),16/1/2020,Thursday,15:30:00,18:30:00,3:00,B05/B06,90,Yee Sook Liang,Marina,2020-01-16 15:30:00
-4,DICT-DNDFC_120_FT_ICOS_Lec03/1 (Group A),SET Introduction to Computer Operating Systems (Group A),17/1/2020,Friday,12:30:00,15:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-01-17 12:30:00
-5,DICT-DNDFC_120_FT_ICOS_Lec03/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),23/1/2020,Thursday,12:00:00,15:00:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-01-23 12:00:00
-6,DICT-DNDFC_120_FT_ICOS_Lec04/1 (Group A),SET Introduction to Computer Operating Systems (Group A),23/1/2020,Thursday,15:30:00,18:30:00,3:00,C02/C03,80,Ankit Saurabh,Jackson,2020-01-23 15:30:00
-7,DICT-DNDFC_120_FT_ICOS_Lec04/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),3/2/2020,Monday,15:30:00,18:30:00,3:00,LT2,90,Yee Sook Liang,Marina,2020-03-02 15:30:00
-8,DICT-DNDFC_120_FT_ICOS_Lec05/1 (Group A),SET Introduction to Computer Operating Systems (Group A),4/2/2020,Tuesday,8:30:00,11:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-04-02 08:30:00
-9,DICT-DNDFC_120_FT_ICOS_Lec05/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),17/3/2020,Tuesday,15:30:00,18:30:00,3:00,LT3,90,Yee Sook Liang,Marina,2020-03-17 15:30:00
-10,DICT-DNDFC_120_FT_ICOS_Lec06/1 (Group A),SET Introduction to Computer Operating Systems (Group A),6/2/2020,Thursday,8:30:00,11:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-06-02 08:30:00
-11,DICT-DNDFC_120_FT_ICOS_Lec06/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),14/2/2020,Friday,15:30:00,18:30:00,3:00,LT2,90,Yee Sook Liang,Marina,2020-02-14 15:30:00
-12,DICT-DNDFC_120_FT_ICOS_Lec07/1 (Group A),SET Introduction to Computer Operating Systems (Group A),14/2/2020,Friday,15:30:00,18:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-02-14 15:30:00
-13,DICT-DNDFC_120_FT_ICOS_Lec07/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),16/3/2020,Monday,12:00:00,15:00:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-03-16 12:00:00
-14,DICT-DNDFC_120_FT_ICOS_Lec08/1 (Group A),SET Introduction to Computer Operating Systems (Group A),17/2/2020,Monday,12:00:00,15:00:00,3:00,C02/C03,80,Ankit Saurabh,Jackson,2020-02-17 12:00:00
-15,DICT-DNDFC_120_FT_ICOS_Lec08/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),18/2/2020,Tuesday,15:30:00,18:30:00,3:00,B05/B06,90,Yee Sook Liang,Marina,2020-02-18 15:30:00
-16,DICT-DNDFC_120_FT_ICOS_Lec09/1 (Group A),SET Introduction to Computer Operating Systems (Group A),16/3/2020,Monday,12:00:00,15:00:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-03-16 12:00:00
-17,DICT-DNDFC_120_FT_ICOS_Lec09/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),26/2/2020,Wednesday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-02-26 15:30:00
-18,DICT-DNDFC_120_FT_ICOS_Lec10/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),27/2/2020,Thursday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-02-27 15:30:00
-19,DICT-DNDFC_120_FT_ICOS_Lec11/1 (Group A),SET Introduction to Computer Operating Systems (Group A),2/3/2020,Monday,15:00:00,18:00:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-02-03 15:00:00
-20,DICT-DNDFC_120_FT_ICOS_Lec11/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),2/3/2020,Monday,15:30:00,18:30:00,3:00,LT1,90,Yee Sook Liang,Marina,2020-02-03 15:30:00
-21,DICT-DNDFC_120_FT_ICOS_Lec12/1 (Group A),SET Introduction to Computer Operating Systems (Group A),3/3/2020,Tuesday,8:30:00,11:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-03-03 08:30:00
-22,DICT-DNDFC_120_FT_ICOS_Lec12/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),3/3/2020,Tuesday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-03-03 15:30:00
-23,DICT-DNDFC_120_FT_ICOS_Lec13/1 (Group A),SET Introduction to Computer Operating Systems (Group A),9/3/2020,Monday,12:00:00,15:00:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-09-03 12:00:00
-24,DICT-DNDFC_120_FT_ICOS_Lec13/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),10/3/2020,Tuesday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-10-03 15:30:00
-25,DICT-DNDFC_120_FT_ICOS_Lec14/1 (Group A),SET Introduction to Computer Operating Systems (Group A),10/3/2020,Tuesday,15:30:00,18:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-10-03 15:30:00
-26,DICT-DNDFC_120_FT_ICOS_Lec14/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),12/3/2020,Thursday,15:30:00,18:30:00,3:00,B05/B06,90,Yee Sook Liang,Marina,2020-12-03 15:30:00
-27,DICT-DNDFC_120_FT_ICOS_Lec15/1 (Group A),SET Introduction to Computer Operating Systems (Group A),11/3/2020,Wednesday,12:00:00,15:00:00,3:00,C02/C03,80,Ankit Saurabh,Jackson,2020-11-03 12:00:00
-28,DICT-DNDFC_120_FT_ICOS_Lec15/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),16/3/2020,Monday,15:30:00,18:30:00,3:00,LT3,90,Yee Sook Liang,Marina,2020-03-16 15:30:00
+index,Name,Description,ActivityDates(Individual),ScheduledDays,ScheduledStartTime,ScheduledEndTime,Duration,AllocatedLocationName,Planned Size,Allocated Staff Name,Zone Name,dateonly
+39,DICT-DNDFC_120_FT_ICOS_Lec02/1 (Group A),SET Introduction to Computer Operating Systems (Group A),13/1/2020,Monday,8:30:00,11:30:00,3:00,C02/C03,80,Ankit Saurabh,Jackson,2020-01-13
+2,DICT-DNDFC_120_FT_DDMG_Lec02,SET Database Design & Modelling,13/1/2020,Monday,12:00:00,15:00:00,3:00,C01,50,Ong Chin Ann,Jackson,2020-01-13
+3,DICT-DNDFC_120_FT_DDMG_Lec03 (Lab Grp 1),SET Database Design & Modelling,15/1/2020,Wednesday,12:00:00,15:00:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-01-15
+24,DICT-DNDFC_120_FT_DM_Lec03/1,SET Discrete Mathematics,15/1/2020,Wednesday,15:00:00,18:00:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-01-15
+4,DICT-DNDFC_120_FT_DDMG_Lec03 (Lab Grp 2),SET Database Design & Modelling,16/1/2020,Thursday,15:30:00,18:30:00,3:00,D01,48,Ong Chin Ann,Jackson,2020-01-16
+40,DICT-DNDFC_120_FT_ICOS_Lec02/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),16/1/2020,Thursday,15:30:00,18:30:00,3:00,B05/B06,90,Yee Sook Liang,Marina,2020-01-16
+41,DICT-DNDFC_120_FT_ICOS_Lec03/1 (Group A),SET Introduction to Computer Operating Systems (Group A),17/1/2020,Friday,12:30:00,15:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-01-17
+25,DICT-DNDFC_120_FT_DM_Lec04/1,SET Discrete Mathematics,20/1/2020,Monday,13:00:00,15:30:00,2:30,C01,80,Chang Wing Hong Edmund,Jackson,2020-01-20
+26,DICT-DNDFC_120_FT_DM_Lec05/1,SET Discrete Mathematics,22/1/2020,Wednesday,13:00:00,15:30:00,2:30,C01,80,Chang Wing Hong Edmund,Jackson,2020-01-22
+43,DICT-DNDFC_120_FT_ICOS_Lec04/1 (Group A),SET Introduction to Computer Operating Systems (Group A),23/1/2020,Thursday,15:30:00,18:30:00,3:00,C02/C03,80,Ankit Saurabh,Jackson,2020-01-23
+38,DICT-DNDFC_120_FT_ICOS_Lec01/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),23/1/2020,Thursday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-01-23
+42,DICT-DNDFC_120_FT_ICOS_Lec03/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),23/1/2020,Thursday,12:00:00,15:00:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-01-23
+56,DICT-DNDFC_120_FT_ICOS_Lec11/1 (Group A),SET Introduction to Computer Operating Systems (Group A),2/3/2020,Monday,15:00:00,18:00:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-02-03
+57,DICT-DNDFC_120_FT_ICOS_Lec11/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),2/3/2020,Monday,15:30:00,18:30:00,3:00,LT1,90,Yee Sook Liang,Marina,2020-02-03
+49,DICT-DNDFC_120_FT_ICOS_Lec07/1 (Group A),SET Introduction to Computer Operating Systems (Group A),14/2/2020,Friday,15:30:00,18:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-02-14
+48,DICT-DNDFC_120_FT_ICOS_Lec06/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),14/2/2020,Friday,15:30:00,18:30:00,3:00,LT2,90,Yee Sook Liang,Marina,2020-02-14
+9,DICT-DNDFC_120_FT_DDMG_Lec07,SET Database Design & Modelling,14/2/2020,Friday,12:00:00,15:00:00,3:00,C01,50,Ong Chin Ann,Jackson,2020-02-14
+51,DICT-DNDFC_120_FT_ICOS_Lec08/1 (Group A),SET Introduction to Computer Operating Systems (Group A),17/2/2020,Monday,12:00:00,15:00:00,3:00,C02/C03,80,Ankit Saurabh,Jackson,2020-02-17
+11,DICT-DNDFC_120_FT_DDMG_Lec08 (Lab Grp1),SET Database Design & Modelling,18/2/2020,Tuesday,15:30:00,18:30:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-02-18
+31,DICT-DNDFC_120_FT_DM_Lec10/1,SET Discrete Mathematics,18/2/2020,Tuesday,12:00:00,15:00:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-02-18
+52,DICT-DNDFC_120_FT_ICOS_Lec08/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),18/2/2020,Tuesday,15:30:00,18:30:00,3:00,B05/B06,90,Yee Sook Liang,Marina,2020-02-18
+10,DICT-DNDFC_120_FT_DDMG_Lec08 (Lab Grp 2),SET Database Design & Modelling,19/2/2020,Wednesday,15:30:00,18:30:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-02-19
+32,DICT-DNDFC_120_FT_DM_Lec11/1,SET Discrete Mathematics,21/2/2020,Friday,15:30:00,18:30:00,3:00,C02/C03,80,Chang Wing Hong Edmund,Jackson,2020-02-21
+12,DICT-DNDFC_120_FT_DDMG_Lec09,SET Database Design & Modelling,21/2/2020,Friday,12:00:00,15:00:00,3:00,C02/C03,50,Ong Chin Ann,Jackson,2020-02-21
+13,DICT-DNDFC_120_FT_DDMG_Lec10,SET Database Design & Modelling,24/2/2020,Monday,12:00:00,15:00:00,3:00,,50,Ong Chin Ann,Jackson,2020-02-24
+33,DICT-DNDFC_120_FT_DM_Lec12/1,SET Discrete Mathematics,25/2/2020,Tuesday,12:00:00,15:00:00,3:00,,80,Chang Wing Hong Edmund,Jackson,2020-02-25
+54,DICT-DNDFC_120_FT_ICOS_Lec09/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),26/2/2020,Wednesday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-02-26
+14,DICT-DNDFC_120_FT_DDMG_Lec11 (Lab Grp 1),SET Database Design & Modelling,26/2/2020,Wednesday,12:00:00,15:00:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-02-26
+55,DICT-DNDFC_120_FT_ICOS_Lec10/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),27/2/2020,Thursday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-02-27
+34,DICT-DNDFC_120_FT_DM_Lec13/1,SET Discrete Mathematics,27/2/2020,Thursday,8:30:00,11:30:00,3:00,,80,Chang Wing Hong Edmund,Marina,2020-02-27
+27,DICT-DNDFC_120_FT_DM_Lec06/1,SET Discrete Mathematics,3/2/2020,Monday,12:30:00,15:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-03-02
+44,DICT-DNDFC_120_FT_ICOS_Lec04/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),3/2/2020,Monday,15:30:00,18:30:00,3:00,LT2,90,Yee Sook Liang,Marina,2020-03-02
+58,DICT-DNDFC_120_FT_ICOS_Lec12/1 (Group A),SET Introduction to Computer Operating Systems (Group A),3/3/2020,Tuesday,8:30:00,11:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-03-03
+35,DICT-DNDFC_120_FT_DM_Lec14/1,SET Discrete Mathematics,3/3/2020,Tuesday,12:00:00,15:30:00,3:30,C02/C03,80,Chang Wing Hong Edmund,Jackson,2020-03-03
+59,DICT-DNDFC_120_FT_ICOS_Lec12/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),3/3/2020,Tuesday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-03-03
+30,DICT-DNDFC_120_FT_DM_Lec09/1,SET Discrete Mathematics,13/3/2020,Friday,8:30:00,11:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-03-13
+50,DICT-DNDFC_120_FT_ICOS_Lec07/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),16/3/2020,Monday,12:00:00,15:00:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-03-16
+53,DICT-DNDFC_120_FT_ICOS_Lec09/1 (Group A),SET Introduction to Computer Operating Systems (Group A),16/3/2020,Monday,12:00:00,15:00:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-03-16
+65,DICT-DNDFC_120_FT_ICOS_Lec15/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),16/3/2020,Monday,15:30:00,18:30:00,3:00,LT3,90,Yee Sook Liang,Marina,2020-03-16
+46,DICT-DNDFC_120_FT_ICOS_Lec05/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),17/3/2020,Tuesday,15:30:00,18:30:00,3:00,LT3,90,Yee Sook Liang,Marina,2020-03-17
+5,DICT-DNDFC_120_FT_DDMG_Lec04,SET Database Design & Modelling,4/2/2020,Tuesday,15:30:00,18:30:00,3:00,C02/C03,50,Ong Chin Ann,Jackson,2020-04-02
+45,DICT-DNDFC_120_FT_ICOS_Lec05/1 (Group A),SET Introduction to Computer Operating Systems (Group A),4/2/2020,Tuesday,8:30:00,11:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-04-02
+15,DICT-DNDFC_120_FT_DDMG_Lec11 (Lab Grp 2),SET Database Design & Modelling,4/3/2020,Wednesday,8:30:00,11:30:00,3:00,D02,48,Ong Chin Ann,Jackson,2020-04-03
+16,DICT-DNDFC_120_FT_DDMG_Lec12,SET Database Design & Modelling,4/3/2020,Wednesday,15:00:00,18:00:00,3:00,C02/C03,50,Ong Chin Ann,Jackson,2020-04-03
+28,DICT-DNDFC_120_FT_DM_Lec07/1,SET Discrete Mathematics,5/2/2020,Wednesday,8:30:00,11:30:00,3:00,C02/C03,80,Chang Wing Hong Edmund,Jackson,2020-05-02
+17,DICT-DNDFC_120_FT_DDMG_Lec13 (Lab Grp 1),SET Database Design & Modelling,5/3/2020,Thursday,8:30:00,11:30:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-05-03
+47,DICT-DNDFC_120_FT_ICOS_Lec06/1 (Group A),SET Introduction to Computer Operating Systems (Group A),6/2/2020,Thursday,8:30:00,11:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-06-02
+18,DICT-DNDFC_120_FT_DDMG_Lec13 (Lab Grp 2),SET Database Design & Modelling,6/3/2020,Friday,8:30:00,11:30:00,3:00,D02,48,Ong Chin Ann,Jackson,2020-06-03
+22,DICT-DNDFC_120_FT_DM_Lec01/1,SET Discrete Mathematics,7/1/2020,Tuesday,15:30:00,18:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-07-01
+23,DICT-DNDFC_120_FT_DM_Lec02/1,SET Discrete Mathematics,8/1/2020,Wednesday,15:30:00,18:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-08-01
+1,DICT-DNDFC_120_FT_DDMG_Lec01,SET Database Design & Modelling,9/1/2020,Thursday,8:30:00,11:30:00,3:00,C01,50,Ong Chin Ann,Jackson,2020-09-01
+21,DICT-DNDFC_120_FT_DDMG_Lec15,SET Database Design & Modelling,9/3/2020,Monday,8:30:00,11:30:00,3:00,C02/C03,50,Ong Chin Ann,Jackson,2020-09-03
+60,DICT-DNDFC_120_FT_ICOS_Lec13/1 (Group A),SET Introduction to Computer Operating Systems (Group A),9/3/2020,Monday,12:00:00,15:00:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-09-03
+37,DICT-DNDFC_120_FT_ICOS_Lec01/1 (Group A),SET Introduction to Computer Operating Systems (Group A),10/1/2020,Friday,15:00:00,18:00:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-10-01
+7,DICT-DNDFC_120_FT_DDMG_Lec05 (Lab Grp 2),SET Database Design & Modelling,10/2/2020,Monday,15:30:00,18:30:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-10-02
+61,DICT-DNDFC_120_FT_ICOS_Lec13/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),10/3/2020,Tuesday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina,2020-10-03
+62,DICT-DNDFC_120_FT_ICOS_Lec14/1 (Group A),SET Introduction to Computer Operating Systems (Group A),10/3/2020,Tuesday,15:30:00,18:30:00,3:00,C01,90,Ankit Saurabh,Jackson,2020-10-03
+36,DICT-DNDFC_120_FT_DM_Lec15/1,SET Discrete Mathematics,10/3/2020,Tuesday,12:00:00,15:30:00,3:30,C01,80,Chang Wing Hong Edmund,Jackson,2020-10-03
+6,DICT-DNDFC_120_FT_DDMG_Lec05 (Lab Grp 1),SET Database Design & Modelling,11/2/2020,Tuesday,12:00:00,15:00:00,3:00,D01,48,Ong Chin Ann,Jackson,2020-11-02
+20,DICT-DNDFC_120_FT_DDMG_Lec14 (Lab Grp 2),SET Database Design & Modelling,11/3/2020,Wednesday,8:30:00,11:30:00,3:00,D02,48,Ong Chin Ann,Jackson,2020-11-03
+64,DICT-DNDFC_120_FT_ICOS_Lec15/1 (Group A),SET Introduction to Computer Operating Systems (Group A),11/3/2020,Wednesday,12:00:00,15:00:00,3:00,C02/C03,80,Ankit Saurabh,Jackson,2020-11-03
+29,DICT-DNDFC_120_FT_DM_Lec08/1,SET Discrete Mathematics,12/2/2020,Wednesday,15:30:00,18:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson,2020-12-02
+8,DICT-DNDFC_120_FT_DDMG_Lec06,SET Database Design & Modelling,12/2/2020,Wednesday,12:00:00,15:00:00,3:00,C01,50,Ong Chin Ann,Jackson,2020-12-02
+63,DICT-DNDFC_120_FT_ICOS_Lec14/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),12/3/2020,Thursday,15:30:00,18:30:00,3:00,B05/B06,90,Yee Sook Liang,Marina,2020-12-03
+19,DICT-DNDFC_120_FT_DDMG_Lec14 (Lab Grp 1),SET Database Design & Modelling,12/3/2020,Thursday,12:00:00,15:00:00,3:00,D03,48,Ong Chin Ann,Jackson,2020-12-03

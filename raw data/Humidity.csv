@@ -1,115 +1,40 @@
-index,Mon (8.30-11.00am),Mon (12.00-3.00pm),Mon (3.30-6.30pm),Tue (8.30-11.00am),Tue (12.00-3.00pm),Tue (3.30-6.30apm),Wed (8.30-11.00am),Wed (12.00-3.00pm),Wed (3.30-6.30pm),Thur (8.30-11.00am),Thur (12.00-3.00pm),Thur (3.30-6.30pm),Fri (8.30-11.00am),Fri (12.00-3.00pm),Fri (3.30-6.30pm)
-1,,,,,,,,,,"9/1/2020
-DICT-DNDFC_120_FT_DDMG_Lec01",,,,,
-2,,"13/1/2020
-DICT-DNDFC_120_FT_DDMG_Lec02",,,,,,,,,,,,,
-3,,,,,,,,"15/1/2020
-DICT-DNDFC_120_FT_DDMG_Lec03 (Lab Grp 1)",,,,,,,
-4,,,,,,,,,,,,"16/1/2020
-DICT-DNDFC_120_FT_DDMG_Lec03 (Lab Grp 2)",,,
-5,,,,,,"4/2/2020
- DICT-DNDFC_120_FT_DDMG_Lec04",,,,,,,,,
-6,,,,,"11/2/2020
-DICT-DNDFC_120_FT_DDMG_Lec05 (Lab Grp 1)",,,,,,,,,,
-7,,,"10/2/2020
-DICT-DNDFC_120_FT_DDMG_Lec05 (Lab Grp 2)",,,,,,,,,,,,
-8,,,,,,,,"12/2/2020
-DICT-DNDFC_120_FT_DDMG_Lec06",,,,,,,
-9,,,,,,,,,,,,,,"14/2/2020
-DICT-DNDFC_120_FT_DDMG_Lec07",
-10,,,,,,,,,"19/2/2020
-DICT-DNDFC_120_FT_DDMG_Lec08 (Lab Grp 2)",,,,,,
-11,,,,,,"18/2/2020
- DICT-DNDFC_120_FT_DDMG_Lec08 (Lab Grp1)",,,,,,,,,
-12,,,,,,,,,,,,,,"21/2/2020
-DICT-DNDFC_120_FT_DDMG_Lec09",
-13,,"24/2/2020
-DICT-DNDFC_120_FT_DDMG_Lec10",,,,,,,,,,,,,
-14,,,,,,,,"26/2/2020
-DICT-DNDFC_120_FT_DDMG_Lec11 (Lab Grp 1)",,,,,,,
-15,,,,,,,"4/3/2020
- DICT-DNDFC_120_FT_DDMG_Lec11 (Lab Grp 2)",,,,,,,,
-17,,,,,,,,,,"5/3/2020
-DICT-DNDFC_120_FT_DDMG_Lec13 (Lab Grp 1)",,,,,
-18,,,,,,,,,,,,,"6/3/2020
-DICT-DNDFC_120_FT_DDMG_Lec13 (Lab Grp 2)",,
-19,,,,,,,,,,,"12/3/2020
- DICT-DNDFC_120_FT_DDMG_Lec14 (Lab Grp 1)",,,,
-20,,,,,,,"11/3/2020
- DICT-DNDFC_120_FT_DDMG_Lec14 (Lab Grp 2)",,,,,,,,
-21,"9/3/2020
-DICT-DNDFC_120_FT_DDMG_Lec15",,,,,,,,,,,,,,
-22,,,,,,"7/1/2020
- DICT-DNDFC_120_FT_DM_Lec01/1",,,,,,,,,
-23,,,,,,,,,"8/1/2020
-DICT-DNDFC_120_FT_DM_Lec02/1",,,,,,
-28,,,,,,,"5/2/2020
- DICT-DNDFC_120_FT_DM_Lec07/1",,,,,,,,
-29,,,,,,,,,"12/2/2020
-DICT-DNDFC_120_FT_DM_Lec08/1",,,,,,
-30,,,,,,,,,,,,,"13/3/2020
-DICT-DNDFC_120_FT_DM_Lec09/1",,
-31,,,,,"18/2/2020
-DICT-DNDFC_120_FT_DM_Lec10/1",,,,,,,,,,
-32,,,,,,,,,,,,,,,"21/2/2020
-DICT-DNDFC_120_FT_DM_Lec11/1"
-33,,,,,"25/2/2020
-DICT-DNDFC_120_FT_DM_Lec12/1",,,,,,,,,,
-34,,,,,,,,,,"27/2/2020
-DICT-DNDFC_120_FT_DM_Lec13/1",,,,,
-35,,,,,"3/3/2020
-DICT-DNDFC_120_FT_DM_Lec14/1",,,,,,,,,,
-36,,,,,"10/3/2020
-DICT-DNDFC_120_FT_DM_Lec15/1",,,,,,,,,,
-38,,,,,,,,,,,,"23/1/2020
-DICT-DNDFC_120_FT_ICOS_Lec01/1 (Group B)",,,
-39,"13/1/2020
-DICT-DNDFC_120_FT_ICOS_Lec02/1 (Group A)",,,,,,,,,,,,,,
-40,,,,,,,,,,,,"16/1/2020
-DICT-DNDFC_120_FT_ICOS_Lec02/1 (Group B)",,,
-42,,,,,,,,,,,"23/1/2020
- DICT-DNDFC_120_FT_ICOS_Lec03/1 (Group B)",,,,
-43,,,,,,,,,,,,"23/1/2020
-DICT-DNDFC_120_FT_ICOS_Lec04/1 (Group A)",,,
-44,,,"3/2/2020
-DICT-DNDFC_120_FT_ICOS_Lec04/1 (Group B)",,,,,,,,,,,,
-45,,,,"4/2/2020
-DICT-DNDFC_120_FT_ICOS_Lec05/1 (Group A)",,,,,,,,,,,
-46,,,,,,"17/3/2020
- DICT-DNDFC_120_FT_ICOS_Lec05/1 (Group B)",,,,,,,,,
-47,,,,,,,,,,"6/2/2020
-DICT-DNDFC_120_FT_ICOS_Lec06/1 (Group A)",,,,,
-48,,,,,,,,,,,,,,,"14/2/2020
-DICT-DNDFC_120_FT_ICOS_Lec06/1 (Group B)"
-49,,,,,,,,,,,,,,,"14/2/2020
-DICT-DNDFC_120_FT_ICOS_Lec07/1 (Group A)"
-50,,"16/3/2020
-DICT-DNDFC_120_FT_ICOS_Lec07/1 (Group B)",,,,,,,,,,,,,
-51,,"17/2/2020
-DICT-DNDFC_120_FT_ICOS_Lec08/1 (Group A)",,,,,,,,,,,,,
-52,,,,,,"18/2/2020
- DICT-DNDFC_120_FT_ICOS_Lec08/1 (Group B)",,,,,,,,,
-53,,"16/3/2020
-DICT-DNDFC_120_FT_ICOS_Lec09/1 (Group A)",,,,,,,,,,,,,
-54,,,,,,,,,"26/2/2020
-DICT-DNDFC_120_FT_ICOS_Lec09/1 (Group B)",,,,,,
-55,,,,,,,,,,,,"27/2/2020
-DICT-DNDFC_120_FT_ICOS_Lec10/1 (Group B)",,,
-57,,,"2/3/2020
-DICT-DNDFC_120_FT_ICOS_Lec11/1 (Group B)",,,,,,,,,,,,
-58,,,,"3/3/2020
-DICT-DNDFC_120_FT_ICOS_Lec12/1 (Group A)",,,,,,,,,,,
-59,,,,,,"3/3/2020
- DICT-DNDFC_120_FT_ICOS_Lec12/1 (Group B)",,,,,,,,,
-60,,"9/3/2020
-DICT-DNDFC_120_FT_ICOS_Lec13/1 (Group A)",,,,,,,,,,,,,
-61,,,,,,"10/3/2020
- DICT-DNDFC_120_FT_ICOS_Lec13/1 (Group B)",,,,,,,,,
-62,,,,,,"10/3/2020
- DICT-DNDFC_120_FT_ICOS_Lec14/1 (Group A)",,,,,,,,,
-63,,,,,,,,,,,,"12/3/2020
-DICT-DNDFC_120_FT_ICOS_Lec14/1 (Group B)",,,
-64,,,,,,,,"11/3/2020
-DICT-DNDFC_120_FT_ICOS_Lec15/1 (Group A)",,,,,,,
-65,,,"16/3/2020
-DICT-DNDFC_120_FT_ICOS_Lec15/1 (Group B)",,,,,,,,,,,,
+,Mon (8.30-11.30am),Mon (12.00-3.00pm),Mon (3.30-6.30pm),Tue (8.30-11.30am),Tue (12.00-3.00pm),Tue (3.30-6.30apm),Wed (8.30-11.30am),Wed (12.00-3.00pm),Wed (3.30-6.30pm),Thur (8.30-11.30am),Thur (12.00-3.00pm),Thur (3.30-6.30pm),Fri (8.30-11.30am),Fri (12.00-3.00pm),Fri (3.30-6.30pm)
+0,Monday. 06 January 2020,Monday. 06 January 2020,Monday. 06 January 2020,Tuesday. 07 January 2020,Tuesday. 07 January 2020,"Tuesday. 07 January 2020
+DICT-DNDFC_120_FT_DM_Lec01/1
+(15:30:00-18:30:00)
+C01",Wednesday. 08 January 2020,Wednesday. 08 January 2020,"Wednesday. 08 January 2020
+DICT-DNDFC_120_FT_DM_Lec02/1
+(15:30:00-18:30:00)
+C01","Thursday. 09 January 2020
+DICT-DNDFC_120_FT_DDMG_Lec01
+(8:30:00-11:30:00)
+C01",Thursday. 09 January 2020,Thursday. 09 January 2020,Friday. 10 January 2020,Friday. 10 January 2020,Friday. 10 January 2020
+1,Sunday. 12 January 2020,Sunday. 12 January 2020,Sunday. 12 January 2020,Monday. 13 January 2020,Monday. 13 January 2020,Monday. 13 January 2020,Tuesday. 14 January 2020,Tuesday. 14 January 2020,Tuesday. 14 January 2020,Wednesday. 15 January 2020,Wednesday. 15 January 2020,Wednesday. 15 January 2020,Thursday. 16 January 2020,Thursday. 16 January 2020,Thursday. 16 January 2020
+2,Saturday. 18 January 2020,Saturday. 18 January 2020,Saturday. 18 January 2020,Sunday. 19 January 2020,Sunday. 19 January 2020,Sunday. 19 January 2020,Monday. 20 January 2020,Monday. 20 January 2020,Monday. 20 January 2020,Tuesday. 21 January 2020,Tuesday. 21 January 2020,Tuesday. 21 January 2020,Wednesday. 22 January 2020,Wednesday. 22 January 2020,Wednesday. 22 January 2020
+3,Friday. 24 January 2020,Friday. 24 January 2020,Friday. 24 January 2020,Saturday. 25 January 2020,Saturday. 25 January 2020,Saturday. 25 January 2020,Sunday. 26 January 2020,Sunday. 26 January 2020,Sunday. 26 January 2020,Monday. 27 January 2020,Monday. 27 January 2020,Monday. 27 January 2020,Tuesday. 28 January 2020,Tuesday. 28 January 2020,Tuesday. 28 January 2020
+4,Thursday. 30 January 2020,Thursday. 30 January 2020,Thursday. 30 January 2020,Friday. 31 January 2020,Friday. 31 January 2020,Friday. 31 January 2020,Saturday. 01 February 2020,Saturday. 01 February 2020,Saturday. 01 February 2020,Sunday. 02 February 2020,Sunday. 02 February 2020,Sunday. 02 February 2020,Monday. 03 February 2020,Monday. 03 February 2020,Monday. 03 February 2020
+5,Wednesday. 05 February 2020,Wednesday. 05 February 2020,Wednesday. 05 February 2020,Thursday. 06 February 2020,Thursday. 06 February 2020,Thursday. 06 February 2020,Friday. 07 February 2020,Friday. 07 February 2020,Friday. 07 February 2020,Saturday. 08 February 2020,Saturday. 08 February 2020,Saturday. 08 February 2020,Sunday. 09 February 2020,Sunday. 09 February 2020,Sunday. 09 February 2020
+6,Tuesday. 11 February 2020,Tuesday. 11 February 2020,Tuesday. 11 February 2020,Wednesday. 12 February 2020,Wednesday. 12 February 2020,Wednesday. 12 February 2020,Thursday. 13 February 2020,Thursday. 13 February 2020,Thursday. 13 February 2020,Friday. 14 February 2020,Friday. 14 February 2020,Friday. 14 February 2020,Saturday. 15 February 2020,Saturday. 15 February 2020,Saturday. 15 February 2020
+7,Monday. 17 February 2020,"Monday. 17 February 2020
+DICT-DNDFC_120_FT_ICOS_Lec08/1 (Group A)
+(12:00:00-15:00:00)
+C02/C03",Monday. 17 February 2020,Tuesday. 18 February 2020,"Tuesday. 18 February 2020
+DICT-DNDFC_120_FT_DM_Lec10/1
+(12:00:00-15:00:00)
+C01","Tuesday. 18 February 2020
+DICT-DNDFC_120_FT_DDMG_Lec08 (Lab Grp1)
+(15:30:00-18:30:00)
+D03",Wednesday. 19 February 2020,Wednesday. 19 February 2020,"Wednesday. 19 February 2020
+DICT-DNDFC_120_FT_DDMG_Lec08 (Lab Grp 2)
+(15:30:00-18:30:00)
+D03",Thursday. 20 February 2020,Thursday. 20 February 2020,Thursday. 20 February 2020,Friday. 21 February 2020,"Friday. 21 February 2020
+DICT-DNDFC_120_FT_DDMG_Lec09
+(12:00:00-15:00:00)
+C02/C03","Friday. 21 February 2020
+DICT-DNDFC_120_FT_DM_Lec11/1
+(15:30:00-18:30:00)
+C02/C03"
+8,Sunday. 23 February 2020,Sunday. 23 February 2020,Sunday. 23 February 2020,Monday. 24 February 2020,Monday. 24 February 2020,Monday. 24 February 2020,Tuesday. 25 February 2020,Tuesday. 25 February 2020,Tuesday. 25 February 2020,Wednesday. 26 February 2020,Wednesday. 26 February 2020,Wednesday. 26 February 2020,Thursday. 27 February 2020,Thursday. 27 February 2020,Thursday. 27 February 2020
+9,Saturday. 29 February 2020,Saturday. 29 February 2020,Saturday. 29 February 2020,Sunday. 01 March 2020,Sunday. 01 March 2020,Sunday. 01 March 2020,Monday. 02 March 2020,Monday. 02 March 2020,Monday. 02 March 2020,Tuesday. 03 March 2020,Tuesday. 03 March 2020,Tuesday. 03 March 2020,Wednesday. 04 March 2020,Wednesday. 04 March 2020,Wednesday. 04 March 2020
+10,Friday. 06 March 2020,Friday. 06 March 2020,Friday. 06 March 2020,Saturday. 07 March 2020,Saturday. 07 March 2020,Saturday. 07 March 2020,Sunday. 08 March 2020,Sunday. 08 March 2020,Sunday. 08 March 2020,Monday. 09 March 2020,Monday. 09 March 2020,Monday. 09 March 2020,Tuesday. 10 March 2020,Tuesday. 10 March 2020,Tuesday. 10 March 2020
+11,Thursday. 12 March 2020,Thursday. 12 March 2020,Thursday. 12 March 2020,Friday. 13 March 2020,Friday. 13 March 2020,Friday. 13 March 2020,Saturday. 14 March 2020,Saturday. 14 March 2020,Saturday. 14 March 2020,Sunday. 15 March 2020,Sunday. 15 March 2020,Sunday. 15 March 2020,Monday. 16 March 2020,Monday. 16 March 2020,Monday. 16 March 2020

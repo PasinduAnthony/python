@@ -1,4 +1,4 @@
-,Name,Description,ActivityDates(Individual),ScheduledDays,ScheduledStartTime,Scheduled End Time,Duration,Allocated Location Name,Planned Size,Allocated Staff Name,Zone Name
+,Name,Description,ActivityDates(Individual),ScheduledDays,ScheduledStartTime,ScheduledEndTime,Duration,AllocatedLocationName,Planned Size,Allocated Staff Name,Zone Name
 3,DICT-DNDFC_120_FT_DM_Lec01/1,SET Discrete Mathematics,7/1/2020,Tuesday,15:30:00,18:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson
 4,DICT-DNDFC_120_FT_DM_Lec02/1,SET Discrete Mathematics,8/1/2020,Wednesday,15:30:00,18:30:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson
 5,DICT-DNDFC_120_FT_DM_Lec03/1,SET Discrete Mathematics,15/1/2020,Wednesday,15:00:00,18:00:00,3:00,C01,80,Chang Wing Hong Edmund,Jackson

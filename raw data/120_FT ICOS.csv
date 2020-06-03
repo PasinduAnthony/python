@@ -1,4 +1,4 @@
-,Name,Description,ActivityDates(Individual),ScheduledDays,ScheduledStartTime,Scheduled End Time,Duration,Allocated Location Name,Planned Size,Allocated Staff Name,Zone Name
+,Name,Description,ActivityDates(Individual),ScheduledDays,ScheduledStartTime,ScheduledEndTime,Duration,AllocatedLocationName,Planned Size,Allocated Staff Name,Zone Name
 4,DICT-DNDFC_120_FT_ICOS_Lec01/1 (Group A),SET Introduction to Computer Operating Systems (Group A),10/1/2020,Friday,15:00:00,18:00:00,3:00,C01,90,Ankit Saurabh,Jackson
 5,DICT-DNDFC_120_FT_ICOS_Lec01/1 (Group B),SET Introduction to Computer & Operating Systems (Group B),23/1/2020,Thursday,15:30:00,18:30:00,3:00,B03/B04,90,Yee Sook Liang,Marina
 6,DICT-DNDFC_120_FT_ICOS_Lec02/1 (Group A),SET Introduction to Computer Operating Systems (Group A),13/1/2020,Monday,8:30:00,11:30:00,3:00,C02/C03,80,Ankit Saurabh,Jackson

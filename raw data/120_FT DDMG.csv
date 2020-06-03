@@ -1,4 +1,4 @@
-,Name,Description,ActivityDates(Individual),ScheduledDays,ScheduledStartTime,Scheduled End Time,Duration,Allocated Location Name,Planned Size,Allocated Staff Name,Zone Name
+,Name,Description,ActivityDates(Individual),ScheduledDays,ScheduledStartTime,ScheduledEndTime,Duration,AllocatedLocationName,Planned Size,Allocated Staff Name,Zone Name
 0,DICT-DNDFC_120_FT_DDMG_Lec01,SET Database Design & Modelling,9/1/2020,Thursday,8:30:00,11:30:00,3:00,C01,50,Ong Chin Ann,Jackson
 1,DICT-DNDFC_120_FT_DDMG_Lec02,SET Database Design & Modelling,13/1/2020,Monday,12:00:00,15:00:00,3:00,C01,50,Ong Chin Ann,Jackson
 2,DICT-DNDFC_120_FT_DDMG_Lec03 (Lab Grp 1),SET Database Design & Modelling,15/1/2020,Wednesday,12:00:00,15:00:00,3:00,D03,48,Ong Chin Ann,Jackson
